@@ -1,0 +1,16 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.site-title {
+    color: #344e41;
+    background-color: #dad7cd;
+    font-size: 60px;
+    text-align: center;
+    border-bottom: 1px solid #a3b18a;
+}
+
+.nav {
+    text-align: center;
+    list-style-type: none;
+}
