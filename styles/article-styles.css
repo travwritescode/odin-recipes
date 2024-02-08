@@ -1,3 +1,11 @@
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+.article-header {
+    color: #3a5a40;
+}
+
+.section-header {
+    color: #588157;
+}
+
+.description {
+    background-color: #dad7cd;
 }
