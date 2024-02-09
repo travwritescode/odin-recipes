@@ -1,5 +1,15 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 600px;
+    margin: 0 auto;
+}
+
+a:link {
+    color: #588157;
+}
+
+a:visited {
+    color: #3a5a40;
 }
 
 .site-title {
@@ -8,9 +18,17 @@ body {
     font-size: 60px;
     text-align: center;
     border-bottom: 1px solid #a3b18a;
+    padding: 32px;
 }
 
 .nav {
     text-align: center;
     list-style-type: none;
+    padding: 0;
+}
+
+.nav > li {
+    margin: 8px;
+    padding: 8px;
+    border-bottom: 1px solid #344E41;
 }
